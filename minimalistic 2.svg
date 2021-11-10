@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100.32071mm"
+   height="100.32071mm"
+   viewBox="0 0 100.32071 100.32071"
+   version="1.1"
+   id="svg49366"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview49368"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:lockguides="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.68595679"
+     inkscape:cx="209.19685"
+     inkscape:cy="300.31046"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs49363" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-49.839645,-99.839645)">
+    <circle
+       style="fill:#ffffff;fill-opacity:0.487705;stroke:#1a1a1a;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path49392"
+       cx="100"
+       cy="150"
+       r="49.160355" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.04786"
+       id="rect49518"
+       width="2"
+       height="36.21014"
+       x="98"
+       y="100" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.04786"
+       id="rect49518-2"
+       width="2"
+       height="36.21014"
+       x="99"
+       y="163.78999" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="62.871429"
+       y="258.8143"
+       id="text53349"><tspan
+         sodipodi:role="line"
+         id="tspan53347"
+         style="font-size:20px;stroke-width:0.264583"
+         x="62.871429"
+         y="258.8143" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.606px;line-height:1.25;font-family:'Footlight MT Light';-inkscape-font-specification:'Footlight MT Light, ';stroke-width:0.338746"
+       x="73.43132"
+       y="158.08937"
+       id="text63593"><tspan
+         sodipodi:role="line"
+         id="tspan63591"
+         style="stroke-width:0.338746"
+         x="73.43132"
+         y="158.08937">FOCI</tspan></text>
+  </g>
+</svg>

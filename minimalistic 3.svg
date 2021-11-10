@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="100.00009mm"
+   viewBox="0 0 100 100.00009"
+   version="1.1"
+   id="svg65111"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="3.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview65113"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.3719136"
+     inkscape:cx="419.48706"
+     inkscape:cy="227.41957"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs65108" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-50,-50)">
+    <circle
+       style="fill:#00ffff;stroke-width:1.74589"
+       id="path65137"
+       cx="100"
+       cy="100"
+       r="50" />
+    <path
+       style="fill:#1a1a1a;stroke-width:1.74589"
+       d="M 100.00005,50 A 50,50 0 0 0 50,100.00005 a 50,50 0 0 0 50.00005,50.00004 50,50 0 0 0 19.127,-3.83181 47.685713,49.13214 0 0 1 -14.88436,2.4815 47.685713,49.13214 0 0 1 -47.685468,-49.131874 47.685713,49.13214 0 0 1 47.685468,-49.132396 47.685713,49.13214 0 0 1 2.42155,0.0636 50,50 0 0 0 -6.66419,-0.44907 z"
+       id="circle65309" />
+    <text
+       xml:space="preserve"
+       style="font-size:25.606px;line-height:1.25;font-family:'Footlight MT Light';-inkscape-font-specification:'Footlight MT Light, ';stroke-width:0.338746"
+       x="78.43132"
+       y="108.09138"
+       id="text63593"><tspan
+         sodipodi:role="line"
+         id="tspan63591"
+         style="stroke-width:0.338746"
+         x="78.43132"
+         y="108.09138">FOCI</tspan></text>
+  </g>
+</svg>
